@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/N3HDF1p/Untitled-design-13.png",
+    "title": "Mahim",
+    "author_img": "author1.jpg",
+    "posted_date": "2023-09-12",
+    "reading_time": "10 mins",
+    "hashtags": ["fiction", "adventure"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/0QnsHbG/Untitled-design-12.png",
+    "title": "Musa",
+    "author_img": "author2.jpg",
+    "posted_date": "2023-09-11",
+    "reading_time": "8 mins",
+    "hashtags": ["science", "technology"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/zJxcF5s/Untitled-design-10.png",
+    "title": "Sufian",
+    "author_img": "author3.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time": "12 mins",
+    "hashtags": ["romance", "drama"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/V2w0Hg1/Untitled-design-8.png",
+    "title": "Hannan",
+    "author_img": "author4.jpg",
+    "posted_date": "2023-09-09",
+    "reading_time": "6 mins",
+    "hashtags": ["comedy", "entertainment"]
+  },
+  {
+    "id": 5,
+    "cover": " https://i.ibb.co/GJMLHq3/Untitled-design-7.png",
+    "title": "Rakhi",
+    "author_img": "author5.jpg",
+    "posted_date": "2023-09-08",
+    "reading_time": "15 mins",
+    "hashtags": ["history", "biography"]
+  }
+]
